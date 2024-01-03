@@ -12,15 +12,14 @@
   "author": "",
   "license": "",
   "peerDependencies": {
-    "react-native": "0.56.0"
+    "react-native": "^0.72.0"
   },
   "dependencies": {
-    "@babel/runtime": "7.0.0-beta.55",
-    "babel-runtime": "^6.26.0",
+    "@babel/runtime": "^7.20.0",
     "prop-types": "^15.7.2",
-    "react": "^16.8.5",
+    "react": "^18.2.0",
     "react-dom": "^16.8.5",
     "react-hot-loader": "^4.8.0",
-    "react-native": "0.56.0"
+    "react-native": "^0.72.0"
   }
 }
